@@ -76,8 +76,9 @@ This project was built to:
 ---
 
 ## 📬 Contact
-[📧 Email](mailto:mr.sarkar9979@gmail.com) <br>
-[🔗 LinkedIn](https://www.linkedin.com/in/dsdipu/) <br>
-[🌐 Portfolio](https://dsdipu.github.io/portfolio/) <br>
+<span style="background-color: teal; padding: 5px 30px; border-radius:15px; font-weight: bold;"><a href="mailto:mr.sarkar9979@gmail.com" target="_blank" style="color:white">📧 Email</a></span> 
+<span style="background-color: steelblue; padding: 5px 30px; border-radius:15px; font-weight: bold;"><a href="https://www.linkedin.com/in/dsdipu/" target="_blank" style="color:white">🔗 LinkedIn</a></span> 
+<span style="background-color: purple; padding: 5px 30px; border-radius:15px; font-weight: bold;"><a href="https://dsdipu.github.io/portfolio/" target="_blank" style="color:white">🌐 Portfolio</a></span> 
 
 © 2026 [Dipankar Sarkar](www.facebook.com/dsdipu0)
+
